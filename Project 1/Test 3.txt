@@ -1,0 +1,14 @@
+Window "Calculator" (600, 150) Layout Flow:
+ Panel Layout Grid(2,2):
+  Label "Numbers";
+  Button "1";
+  Button "2";
+  Group
+   Radio "Test";
+   Radio "Eat";
+   Radio "Study";
+  End;
+  Label "Text";
+  Textfield 10;
+ End;
+End.

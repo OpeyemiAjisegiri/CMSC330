@@ -1,0 +1,13 @@
+Window "Testing" (450, 160) Layout Grid(2, 2):
+ Panel Layout Flow:
+  Label "Numbers";
+  Button "1";
+  Button "2";
+  Group
+   Radio "Test";
+   Radio "Eat";
+   Radio "Study";
+  End
+  Button "3";
+ End;
+End.

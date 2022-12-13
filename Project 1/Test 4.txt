@@ -1,0 +1,13 @@
+Window "Keyword-Testing" (600, 400) Layout Grid(3, 3):
+Panel Layout Flow:
+  Label "Numbers";
+  Error "1";
+  Button "2";
+  Group
+   Radio "Test";
+   Radio "Eat";
+   Radio "Study";
+  End;
+  Button "3";
+ End;
+End.
