@@ -1,0 +1,1 @@
+string parseName(ifstream& file);
